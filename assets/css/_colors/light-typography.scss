@@ -8,7 +8,7 @@
 
 @mixin light-scheme {
 
-  --body-bg: #fafafa;
+  --body-bg: #454a57;
 
   --mask-bg: #c1c3c5;
 
@@ -22,7 +22,7 @@
 
   --blockquote-border-color: #eee;
 
-  --blockquote-text-color: #9a9a9a;
+  --blockquote-text-color: #3c4552;
 
   --link-color: #2a408e;
 
@@ -51,9 +51,9 @@
 
   /* Topbar */
 
-  --topbar-wrapper-bg: white;
+  --topbar-wrapper-bg: black;
 
-  --topbar-text-color: rgb(78, 78, 78);
+  --topbar-text-color: rgb(34, 37, 40);
 
   --search-wrapper-bg: #f5f5f5;
 
@@ -67,15 +67,15 @@
 
   --post-list-text-color: dimgray;
 
-  --btn-patinator-text-color: #555555;
+  --btn-patinator-text-color: #262a33;
 
   --btn-paginator-hover-color: #e9ecef;
 
-  --btn-active-bg: #2a408e;
+  --btn-active-bg: #2a303d;
 
   --btn-active-border-color: #007bff;
 
-  --btn-text-color: #f8f8f8;
+  --btn-text-color: #2a303d;
 
   --btn-paginator-border-color: #f1f1f1;
 
@@ -89,7 +89,7 @@
 
   --card-box-shadow: rgba(234, 234, 234, 0.7686274509803922);
 
-  --label-color: #808080;
+  --label-color: #373b45;
 
   --relate-post-date: rgba(30, 55, 70, .4);
 
