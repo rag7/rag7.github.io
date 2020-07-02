@@ -18,9 +18,9 @@ description: >-                        # used by seo meta and the atom feed
 # Replace with the website url, e.g. 'https://username.github.io'
 url: 'https://rag7.github.io'
 
-author: yrag                 # change to your full name
+author: rag                 # change to your full name
 
-
+avatar: https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSe1MjCWDCZx0UDwSO33UAX59fIQwn0doNYmA&usqp=CAU
 
 github:
   username: rag7             # change to your github username
